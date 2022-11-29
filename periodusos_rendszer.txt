@@ -1,118 +1,118 @@
-Actinium	Ac	89	1.1
-Aluminum	Al	13	1.61
-Americium	Am	95	1.3
-Antimony	Sb	51	2.05
-Argon	Ar	18	
-Arsenic	As	33	2.18
-Astatine	At	85	2.2
-Barium	Ba	56	0.89
-Berkelium	Bk	97	1.3
-Beryllium	Be	4	1.57
-Bismuth	Bi	83	2.02
-Bohrium	Bh	107	
-Boron	B	5	2.04
-Bromine	Br	35	2.96
-Cadmium	Cd	48	1.69
-Calcium	Ca	20	1
-Californium	Cf	98	1.3
-Carbon	C	6	2.55
-Cerium	Ce	58	1.12
-Cesium	Cs	55	0.79
-Chlorine	Cl	17	3.16
-Chromium	Cr	24	1.66
-Cobalt	Co	27	1.88
-Copper	Cu	29	1.9
-Curium	Cm	96	1.3
-Darmstadtium	Ds	110	
-Dubnium	Db	105	
-Dysprosium	Dy	66	1.22
-Einsteinium	Es	99	1.3
-Erbium	Er	68	1.24
-Europium	Eu	63	
-Fermium	Fm	100	1.3
-Fluorine	F	9	3.98
-Francium	Fr	87	0.7
-Gadolinium	Gd	64	1.2
-Gallium	Ga	31	1.81
-Germanium	Ge	32	2.01
-Gold	Au	79	2.54
-Hafnium	Hf	72	1.3
-Hassium	Hs	108	
-Helium	He	2	
-Holmium	Ho	67	1.23
-Hydrogen	H	1	2.2
-Indium	In	49	1.78
-Iodine	I	53	2.66
-Iridium	Ir	77	2.2
-Iron	Fe	26	1.83
-Krypton	Kr	36	3
-Lanthanum	La	57	1.1
-Lawrencium	Lr	103	
-Lead	Pb	82	2.33
-Lithium	Li	3	0.98
-Lutetium	Lu	71	1.27
-Magnesium	Mg	12	1.31
-Manganese	Mn	25	1.55
-Meitnerium	Mt	109	
-Mendelevium	Md	101	1.3
-Mercury	Hg	80	2
-Molybdenum	Mo	42	2.16
-Neodymium	Nd	60	1.14
-Neon	Ne	10	
-Neptunium	Np	93	1.36
-Nickel	Ni	28	1.91
-Niobium	Nb	41	1.6
-Nitrogen	N	7	3.04
-Nobelium	No	102	1.3
-Oganesson	Uuo	118	
-Osmium	Os	76	2.2
-Oxygen	O	8	3.44
-Palladium	Pd	46	2.2
-Phosphorus	P	15	2.19
-Platinum	Pt	78	2.28
-Plutonium	Pu	94	1.28
-Polonium	Po	84	2
-Potassium	K	19	0.82
-Praseodymium	Pr	59	1.13
-Promethium	Pm	61	
-Protactinium	Pa	91	1.5
-Radium	Ra	88	0.9
-Radon	Rn	86	
-Rhenium	Re	75	1.9
-Rhodium	Rh	45	2.28
-Roentgenium	Rg	111	
-Rubidium	Rb	37	0.82
-Ruthenium	Ru	44	2.2
-Rutherfordium	Rf	104	
-Samarium	Sm	62	1.17
-Scandium	Sc	21	1.36
-Seaborgium	Sg	106	
-Selenium	Se	34	2.55
-Silicon	Si	14	1.9
-Silver	Ag	47	1.93
-Sodium	Na	11	0.93
-Strontium	Sr	38	0.95
-Sulfur	S	16	2.58
-Tantalum	Ta	73	1.5
-Technetium	Tc	43	1.9
-Tellurium	Te	52	2.1
-Terbium	Tb	65	
-Thallium	Tl	81	1.62
-Thorium	Th	90	1.3
-Thulium	Tm	69	1.25
-Tin	Sn	50	1.96
-Titanium	Ti	22	1.54
-Tungsten	W	74	2.36
-Ununbium	Uub	112	 
-Ununhexium	Uuh	116	 
-Ununpentium	Uup	115	 
-Ununquadium	Uuq	114	 
-Ununseptium	Uus	117	 
-Ununtrium	Uut	113	 
-Uranium	U	92	1.38
-Vanadium	V	23	1.63
-Xenon	Xe	54	2.6
-Ytterbium	Yb	70	
-Yttrium	Y	39	1.22
-Zinc	Zn	30	1.65
-Zirconium	Zr	40	1.33
+AtomicNumber,Element,Symbol,AtomicMass
+2,Helium,He,4.002
+3,Lithium,Li,6.941
+4,Beryllium,Be,9.012
+5,Boron,B,10.811
+6,Carbon,C,12.011
+7,Nitrogen,N,14.007
+8,Oxygen,O,15.999
+9,Fluorine,F,18.998
+10,Neon,Ne,20.18
+11,Sodium,Na,22.99
+12,Magnesium,Mg,24.305
+13,Aluminum,Al,26.982
+14,Silicon,Si,28.086
+15,Phosphorus,P,30.974
+16,Sulfur,S,32.065
+17,Chlorine,Cl,35.453
+18,Argon,Ar,39.948
+19,Potassium,K,39.098
+20,Calcium,Ca,40.078
+21,Scandium,Sc,44.956
+22,Titanium,Ti,47.867
+23,Vanadium,V,50.942
+24,Chromium,Cr,51.996
+25,Manganese,Mn,54.938
+26,Iron,Fe,55.845
+27,Cobalt,Co,58.933
+28,Nickel,Ni,58.693
+29,Copper,Cu,63.546
+30,Zinc,Zn,65.38
+31,Gallium,Ga,69.723
+32,Germanium,Ge,72.64
+33,Arsenic,As,74.922
+34,Selenium,Se,78.96
+35,Bromine,Br,79.904
+36,Krypton,Kr,83.798
+37,Rubidium,Rb,85.468
+38,Strontium,Sr,87.62
+39,Yttrium,Y,88.906
+40,Zirconium,Zr,91.224	
+41,Niobium,Nb,92.906
+42,Molybdenum,Mo,95.96
+43,Technetium,Tc,98
+44,Ruthenium,Ru,101.07
+45,Rhodium,Rh,102.906
+46,Palladium,Pd,106.42
+47,Silver,Ag,107.868
+48,Cadmium,Cd,112.411
+49,Indium,In,114.818
+50,Tin,Sn,118.71
+51,Antimony,Sb,121.76
+52,Tellurium,Te,127.6
+53,Iodine,I,126.904
+54,Xenon,Xe,131.293
+55,Cesium,Cs,132.905
+56,Barium,Ba,137.327
+57,Lanthanum,La,138.905
+58,Cerium,Ce,140.116
+59,Praseodymium,Pr,140.908
+60,Neodymium,Nd,144.242
+61,Promethium,Pm,145
+62,Samarium,Sm,150.36
+63,Europium,Eu,151.964
+64,Gadolinium,Gd,157.25
+65,Terbium,Tb,158.925
+66,Dysprosium,Dy,162.5
+67,Holmium,Ho,164.93
+68,Erbium,Er,167.259
+69,Thulium,Tm,168.934
+70,Ytterbium,Yb,173.054
+71,Lutetium,Lu,174.967
+72,Hafnium,Hf,178.49
+73,Tantalum,Ta,180.948
+74,Wolfram,W,183.84
+75,Rhenium,Re,186.207
+76,Osmium,Os,190.23
+77,Iridium,Ir,192.217
+78,Platinum,Pt,195.084
+79,Gold,Au,196.967
+80,Mercury,Hg,200.59
+81,Thallium,Tl,204.383
+82,Lead,Pb,207.2
+83,Bismuth,Bi,208.98
+84,Polonium,Po,210
+85,Astatine,At,210
+86,Radon,Rn,222
+87,Francium,Fr,223
+88,Radium,Ra,226
+89,Actinium,Ac,227
+90,Thorium,Th,232.038
+91,Protactinium,Pa,231.036
+92,Uranium,U,238.029
+93,Neptunium,Np,237
+94,Plutonium,Pu,244
+95,Americium,Am,243
+96,Curium,Cm,247
+97,Berkelium,Bk,247
+98,Californium,Cf,251
+99,Einsteinium,Es,252
+100,Fermium,Fm,257
+101,Mendelevium,Md,258
+102,Nobelium,No,259
+103,Lawrencium,Lr,262
+104,Rutherfordium,Rf,261
+105,Dubnium,Db,262
+106,Seaborgium,Sg,266
+107,Bohrium,Bh,264
+108,Hassium,Hs,267
+109,Meitnerium,Mt,268
+110,Darmstadtium ,Ds ,271
+111,Roentgenium ,Rg ,272
+112,Copernicium ,Cn ,285
+113,Nihonium,Nh,284
+114,Flerovium,Fl,289
+115,Moscovium,Mc,288
+116,Livermorium,Lv,292
+117,Tennessine,Ts,295
+118,Oganesson,Og,294
